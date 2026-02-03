@@ -1,0 +1,2 @@
+# FreeAi4Me - Python dependencies
+openai>=1.0.0
