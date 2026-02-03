@@ -6,7 +6,7 @@ set VPS_HOST=twoja-domena.pl
 set VPS_USER=root
 set VPS_PORT=22
 set LOCAL_PORT=1234
-set REMOTE_PORT=8080
+set REMOTE_PORT=9234
 
 echo ============================================
 echo    FreeAi4Me - Reverse SSH Tunnel

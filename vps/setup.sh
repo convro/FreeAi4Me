@@ -5,7 +5,7 @@
 set -e
 
 DOMAIN=$1
-TUNNEL_PORT=${2:-8080}
+TUNNEL_PORT=${2:-9234}
 API_KEY=${3:-""}
 
 # Kolory

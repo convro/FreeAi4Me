@@ -15,7 +15,7 @@ param(
     [int]$LocalPort = 1234,  # Port LM Studio (domyslny)
 
     [Parameter(Mandatory=$false)]
-    [int]$RemotePort = 8080,  # Port na VPS gdzie bedzie dostepne API
+    [int]$RemotePort = 9234,  # Port na VPS gdzie bedzie dostepne API
 
     [Parameter(Mandatory=$false)]
     [string]$SshKeyPath = "$env:USERPROFILE\.ssh\id_rsa"
